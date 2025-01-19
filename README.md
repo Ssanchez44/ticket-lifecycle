@@ -36,23 +36,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-The intake process begins when a user submits a request or an issue.
+The intake process begins when a user submits a request or an issue from an Email.
 </p>
 <br />
 
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/4570ac80-9e5b-4556-94a0-040696599802)
 
 </p>
 <p>
-Assignment and Communication</h3> Once the ticket is created, it is assigned to an appropriate team member.
+Assignment and Communication</h3> Once the ticket is created, it is assigned to an appropriate team member. Communication between the agent and the user is essential to clarify details and gather additional information if needed.
 </p>
 <br />
 
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/69bb5f89-9a24-4114-88b7-ca846928ec43)
 
 </p>
 <p>
@@ -62,7 +62,7 @@ Working the Issue</h3> This is where troubleshooting or resolution begins. The s
 
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/8c5a2532-180f-4c92-96d8-602b1fd05d22)
 
 </p>
 <p>
