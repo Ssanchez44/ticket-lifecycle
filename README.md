@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- YouTube: How to create, work, and resolves tickets within osTicket
+- YouTube: How to create, work, and resolve tickets within osTicket
 - (https://www.youtube.com/watch?v=mf6IrOdbGlQ)
 
 <h2>Environments and Technologies Used</h2>
@@ -24,9 +24,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
+
 - Intake
 - Assignment and Communication
+  in the assignment look at
+
+  Priority, Department, SLA, Assigned To
+   
 - Working the Issue
+
+  setting the SLA, Help topic setting the report problem
+
 - Resolution
 
 <h2>Lifecycle Stages</h2>
@@ -43,23 +51,27 @@ The intake process begins when a user submits a request or an issue from an Emai
 
 <p>
 
+![image](https://github.com/user-attachments/assets/eb7e4fff-bd1d-42f3-9298-6e0de434df5a)
+
+![image](https://github.com/user-attachments/assets/317b856b-2ad4-4595-afce-9a8e710ed1b8)
+
+![image](https://github.com/user-attachments/assets/7ba6b473-43d7-461d-874a-531cda571ce1)
+
+![image](https://github.com/user-attachments/assets/540bcf3f-9758-4e58-b5a4-7228acc32a4f)
+
+![image](https://github.com/user-attachments/assets/ea7485b2-b950-48a5-9113-ac8a036ae8aa)
+
 ![image](https://github.com/user-attachments/assets/4570ac80-9e5b-4556-94a0-040696599802)
 
 </p>
 <p>
-Assignment and Communication</h3> Once the ticket is created, it is assigned to an appropriate team member. Communication between the agent and the user is essential to clarify details and gather additional information if needed.
+
+  
+  Assignment and Communication</h3> Once the ticket is created, it is assigned to an appropriate team member. Communication between the agent and the user is essential to clarify details and gather additional information if needed.
+
 </p>
 <br />
 
-<p>
-
-![image](https://github.com/user-attachments/assets/69bb5f89-9a24-4114-88b7-ca846928ec43)
-
-</p>
-<p>
-Working the Issue</h3> This is where troubleshooting or resolution begins. The support agent works on fixing the issue reported by the user. This may involve interacting with other team members, testing potential solutions, or gathering additional resources.
-</p>
-<br />
 
 <p>
 
@@ -70,4 +82,3 @@ Working the Issue</h3> This is where troubleshooting or resolution begins. The s
 Resolution</h3> Once the issue is resolved, the support agent closes the ticket. A resolution note is typically added to document the fix or action taken, providing future reference for both the user and support team.
 </p>
 <br />
-# ticket-lifecycle
